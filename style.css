@@ -1,0 +1,87 @@
+.title
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 35px;
+    font-weight:bold ;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.note
+{
+    background-color: rgb(63, 61, 61);
+    color: white;
+    font-size: 20px;
+    font-weight:bold ;
+    height: 45px;
+    width: 999px;
+}
+
+body
+{
+    background-size: cover;
+    
+}
+
+
+.speed
+{
+    float:left;
+}
+
+.logo
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+#song_speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+
+
+
+.volume
+{
+    float:right;
+}
+
+.logo
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+#song_volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+
+
+.play-button, .stop-button
+{
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 30px;
+    width: 100px;
+    height: 75px;
+    margin: 30px;
+}
+
+
+canvas
+{
+ border: 5px solid white;
+ border-radius: 20px;
+ margin-top: 350px;
+}
